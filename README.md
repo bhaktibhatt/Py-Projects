@@ -1,1 +1,1 @@
-﻿# Creating Few Project in Python
+﻿# Creating Few GUI Project in Python
